@@ -1,0 +1,4 @@
+DeathAnimation-idle-0 4 3 24 24
+DeathAnimation-idle-1 39 3 24 24
+DeathAnimation-idle-2 75 3 24 24
+DeathAnimation-idle-3 110 3 24 24

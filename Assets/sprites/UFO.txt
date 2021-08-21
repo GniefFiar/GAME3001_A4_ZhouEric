@@ -1,0 +1,16 @@
+UFO-idle-0 1 0 24 21
+UFO-idle-1 27 0 24 21
+UFO-idle-2 55 0 24 21
+UFO-idle-3 81 0 24 21
+UFO-idle-4 107 0 24 21
+UFO-idle-5 134 0 24 21
+UFO-idle-6 158 0 24 21
+UFO-idle-7 185 0 24 21
+UFO-run-0 1 0 24 21
+UFO-run-1 27 0 24 21
+UFO-run-2 55 0 24 21
+UFO-run-3 81 0 24 21
+UFO-run-4 107 0 24 21
+UFO-run-5 134 0 24 21
+UFO-run-6 158 0 24 21
+UFO-run-7 185 0 24 21
